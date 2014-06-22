@@ -1,0 +1,1302 @@
+[
+  {
+    "day":"Monday",
+    "street":"1ST ST"
+  },
+  {
+    "day":"Monday",
+    "street":"31 E BYP 630-683"
+  },
+  {
+    "day":"Monday",
+    "street":"ADAMS DR"
+  },
+  {
+    "day":"Monday",
+    "street":"APOLLO DR"
+  },
+  {
+    "day":"Monday",
+    "street":"BARDTOWN RD (REAR) 111-1200"
+  },
+  {
+    "day":"Monday",
+    "street":"BEECHWOOD LN"
+  },
+  {
+    "day":"Monday",
+    "street":"BENJAMIN PL"
+  },
+  {
+    "day":"Monday",
+    "street":"BETHANY CT"
+  },
+  {
+    "day":"Monday",
+    "street":"BRUCE CLARK LN"
+  },
+  {
+    "day":"Monday",
+    "street":"CALIFORNIA AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"CAPELLA CT"
+  },
+  {
+    "day":"Monday",
+    "street":"CAROLINA AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"CARTER CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"CHEROKEE CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"CLARKS DR"
+  },
+  {
+    "day":"Monday",
+    "street":"CLEAR CREEK DR"
+  },
+  {
+    "day":"Monday",
+    "street":"CLEARVIEW CT"
+  },
+  {
+    "day":"Monday",
+    "street":"DAKOTA CT"
+  },
+  {
+    "day":"Monday",
+    "street":"EATHAN CT"
+  },
+  {
+    "day":"Monday",
+    "street":"EVANS LN"
+  },
+  {
+    "day":"Monday",
+    "street":"FAIRLANE DR"
+  },
+  {
+    "day":"Monday",
+    "street":"FILLMORE CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"FLATLICK RD"
+  },
+  {
+    "day":"Monday",
+    "street":"FLORIDA AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"FREDERICK CT"
+  },
+  {
+    "day":"Monday",
+    "street":"GENE ST"
+  },
+  {
+    "day":"Monday",
+    "street":"GEORGIA AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"GLEN RIDGE DR"
+  },
+  {
+    "day":"Monday",
+    "street":"GRANT DR"
+  },
+  {
+    "day":"Monday",
+    "street":"GRAZING TRACE CT"
+  },
+  {
+    "day":"Monday",
+    "street":"GREEN GARDEN DR"
+  },
+  {
+    "day":"Monday",
+    "street":"GREENBRIAR RD"
+  },
+  {
+    "day":"Monday",
+    "street":"GREENFIELD CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"HARDING DR"
+  },
+  {
+    "day":"Monday",
+    "street":"HARE LN"
+  },
+  {
+    "day":"Monday",
+    "street":"HILL TERRACE DR"
+  },
+  {
+    "day":"Monday",
+    "street":"HILLTOP DR"
+  },
+  {
+    "day":"Monday",
+    "street":"HOOVER CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"JEFFERSON CT"
+  },
+  {
+    "day":"Monday",
+    "street":"JOSEPH DR"
+  },
+  {
+    "day":"Monday",
+    "street":"LAKEVIEW DR"
+  },
+  {
+    "day":"Monday",
+    "street":"LANDIS LN"
+  },
+  {
+    "day":"Monday",
+    "street":"LINCOLN DR"
+  },
+  {
+    "day":"Monday",
+    "street":"LLOYD CT"
+  },
+  {
+    "day":"Monday",
+    "street":"LOUIS LN"
+  },
+  {
+    "day":"Monday",
+    "street":"LYNNWOOD CT"
+  },
+  {
+    "day":"Monday",
+    "street":"MEADOWS DR"
+  },
+  {
+    "day":"Monday",
+    "street":"MEADOWVIEW CT"
+  },
+  {
+    "day":"Monday",
+    "street":"OAK BROOK DR"
+  },
+  {
+    "day":"Monday",
+    "street":"OWEN RD"
+  },
+  {
+    "day":"Monday",
+    "street":"PIERCE AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"PIN OAK CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"RIGEL CT"
+  },
+  {
+    "day":"Monday",
+    "street":"SENATE LN"
+  },
+  {
+    "day":"Monday",
+    "street":"SHAWNEE CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"SNAPP ST"
+  },
+  {
+    "day":"Monday",
+    "street":"TAFT CT"
+  },
+  {
+    "day":"Monday",
+    "street":"TEAKWOOD CIR"
+  },
+  {
+    "day":"Monday",
+    "street":"TEXAS AVE"
+  },
+  {
+    "day":"Monday",
+    "street":"TIFFANY CT"
+  },
+  {
+    "day":"Monday",
+    "street":"TODD DR"
+  },
+  {
+    "day":"Monday",
+    "street":"VALLEY DR"
+  },
+  {
+    "day":"Monday",
+    "street":"VILLAGE LN"
+  },
+  {
+    "day":"Monday",
+    "street":"WASHINGTON CT"
+  },
+  {
+    "day":"Monday",
+    "street":"WEST AVE"
+  },
+  {
+    "day":"Tuesday",
+    "street":"ADRIAN AVE"
+  },
+  {
+    "day":"Tuesday",
+    "street":"ASHFORD DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BALD EAGLE CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BARDSTOWN RD"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BILLIKEN CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BLUEGRASS WAY"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BOAZ LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BRANHAM WAY"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BRIARCLIFF CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CALUMET CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY GLEN "
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY TRACE "
+  },
+  {
+    "day":"Tuesday",
+    "street":"CARLA DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CEDAR POINT CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CHATEAUGAY CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CITATION CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"COLLEGE ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"COLONIAL DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORDELIA DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORNELL AVE"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORNELL VILLAGE DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CROWN CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"DARBY DAN CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"DOOLEY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EAGLE FEATHER ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EAST ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EASTBROOK CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EDWARD CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EMERALD CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FEDERAL HILL DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FORNTNEY LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FORTNEY CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FRANK LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"GALWAY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"GOOD CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"HARDY LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"31 E BYPASS 783-898 BYP"
+  },
+  {
+    "day":"Tuesday",
+    "street":"HIGHWAY 44 10534-13025 "
+  },
+  {
+    "day":"Tuesday",
+    "street":"HUBBARD LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"IRISH CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"JOEY CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"ADRIAN AVE"
+  },
+  {
+    "day":"Tuesday",
+    "street":"ASHFORD DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BALD EAGLE CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BARDSTOWN RD"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BILLIKEN CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BLUEGRASS WAY"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BOAZ LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BRANHAM WAY"
+  },
+  {
+    "day":"Tuesday",
+    "street":"BRIARCLIFF CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CALUMET CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY GLEN "
+  },
+  {
+    "day":"Tuesday",
+    "street":"CANTERBURY TRACE "
+  },
+  {
+    "day":"Tuesday",
+    "street":"CARLA DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CEDAR POINT CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CHATEAUGAY CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CITATION CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"COLLEGE ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"COLONIAL DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORDELIA DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORNELL AVE"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CORNELL VILLAGE DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"CROWN CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"DARBY DAN CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"DOOLEY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EAGLE FEATHER ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EAST ST"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EASTBROOK CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EDWARD CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"EMERALD CIR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FEDERAL HILL DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FORNTNEY LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FORTNEY CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"FRANK LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"GALWAY DR"
+  },
+  {
+    "day":"Tuesday",
+    "street":"GOOD CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"HARDY LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"31 E BYPASS 783-898 BYP"
+  },
+  {
+    "day":"Tuesday",
+    "street":"HIGHWAY 44 10534-13025 "
+  },
+  {
+    "day":"Tuesday",
+    "street":"HUBBARD LN"
+  },
+  {
+    "day":"Tuesday",
+    "street":"IRISH CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"JOEY CT"
+  },
+  {
+    "day":"Tuesday",
+    "street":"WOODSIDE CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"44 E 6598-7671 "
+  },
+  {
+    "day":"Thursday",
+    "street":"AMBER CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"APPLE BLOSSOM CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"ARMSTRONG LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"AUDTUM LEAF DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"AULBERN DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"AUTUMN WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"E AUTUMN WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"AUTUMN GLEN DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"AUTUMN LEAF DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"AUTUMN RIDGE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"BARBARA SUE LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"BAYBERRY CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"BAYWOOD CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"BECCA LYNN CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"BECKY MCKINLEY DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"BEECHTREE LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"BERGER FARM DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"BETHEL BRANCH WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"BETHEL CHURCH RD"
+  },
+  {
+    "day":"Thursday",
+    "street":"BITTERSWEET CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"BLACKBERRY CIR"
+  },
+  {
+    "day":"Thursday",
+    "street":"BLEEMEL LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"BOXWOOD RUN RD"
+  },
+  {
+    "day":"Thursday",
+    "street":"BRADFORD PL"
+  },
+  {
+    "day":"Thursday",
+    "street":"BRIAN CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"BRONZEWOOD WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"BRYCE WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"BURLWOOD CIR"
+  },
+  {
+    "day":"Thursday",
+    "street":"BURLWOOD CIR "
+  },
+  {
+    "day":"Thursday",
+    "street":"BURNT SIENNA DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"CANDY APPLE CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"CHERRY HILL PKWY"
+  },
+  {
+    "day":"Thursday",
+    "street":"CINNAMON DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"CORNUCOPIA CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"CRIMSON CREEK DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"CROSSFIELD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"CRYSTAL VIEW CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"CULPEPPER CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"DEER PARK WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"DELMAR DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"DOGWOOD CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"DOGWOOD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"DOGWOOD RD"
+  },
+  {
+    "day":"Thursday",
+    "street":"DUANE WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"ELM LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"EMMA CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"EXCALIBUR CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"FALLING LEAF DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"FARMVIEW DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"FERN WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"FERNWOOD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"FOREST PARK DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"FOREST RIDGE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"FOX RIDGE WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"FOXTAIL CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"8206 E HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9021 E HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9180 E HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9372 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9424 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9444 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9455 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9495 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9515 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9531 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9540 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9547 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9551 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9557 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9590 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9599 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9611 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9681 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9747 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9750 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9819 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9828 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9835 E HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9855 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"9895 HWY 44 "
+  },
+  {
+    "day":"Thursday",
+    "street":"GENTRY LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"GENTRY CROSSINGS BLVD"
+  },
+  {
+    "day":"Thursday",
+    "street":"GINGER DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"GORDON DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"GREEN WOOD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"GREENTREE LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"HALCOMB CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"HALFMOON DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HARDWOOD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HARRIS DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HARVEST LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"HAYLEE CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"HELM LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"HELMWOOD CIR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HERITAGE WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"HILLCREST DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HOLLY DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"HOLLY MARIE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"IVY DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"JASPER LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"KAYLA BROOKE CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"KRISTEN MARIE CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"LEGACY CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"LENTZ LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"LLOYDS LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"LONDON SQ"
+  },
+  {
+    "day":"Thursday",
+    "street":"MARTHAS CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"MCFARLAND AVE"
+  },
+  {
+    "day":"Thursday",
+    "street":"MEADOWCREST CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"MEADOWCREST DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"MERLOT CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"MGM CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"MISTY BROOKE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"MT VERNON CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"NEWMAN WAY"
+  },
+  {
+    "day":"Thursday",
+    "street":"OLDE COLONY CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"PARK HILL LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"PARK RIDGE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"PECAN CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"PERSIMMON DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"POPES CREEK LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"POTOMAC BEND "
+  },
+  {
+    "day":"Thursday",
+    "street":"REDBUD DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"SAMMYS CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"SAVANNAH DAWN CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"SCENIC CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"SCENIC VIEW CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"SIMMONS LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"SPRUCE LN"
+  },
+  {
+    "day":"Thursday",
+    "street":"TERESA KAY DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"TREVOR CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"TREY DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"WALNUT AVE"
+  },
+  {
+    "day":"Thursday",
+    "street":"WINCHESTER DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"WINDING WOODS TRL"
+  },
+  {
+    "day":"Thursday",
+    "street":"WOODGATE DR"
+  },
+  {
+    "day":"Thursday",
+    "street":"WOODLAND PASS"
+  },
+  {
+    "day":"Thursday",
+    "street":"WOOD ROCK CT"
+  },
+  {
+    "day":"Thursday",
+    "street":"WOODWIND CT"
+  },
+  {
+    "day":"Friday",
+    "street":"BOWMAN CT"
+  },
+  {
+    "day":"Friday",
+    "street":"CONCORD DR"
+  },
+  {
+    "day":"Friday",
+    "street":"DELAINA DR"
+  },
+  {
+    "day":"Friday",
+    "street":"DOVER CT"
+  },
+  {
+    "day":"Friday",
+    "street":"ELAINE WAY"
+  },
+  {
+    "day":"Friday",
+    "street":"EMILY DR"
+  },
+  {
+    "day":"Friday",
+    "street":"ERIN CIR"
+  },
+  {
+    "day":"Friday",
+    "street":"FAIRWAY DR"
+  },
+  {
+    "day":"Friday",
+    "street":"FAWN WAY CT"
+  },
+  {
+    "day":"Friday",
+    "street":"GARNETTE CT"
+  },
+  {
+    "day":"Friday",
+    "street":"GRANITE CT"
+  },
+  {
+    "day":"Friday",
+    "street":"HARTFORD DR"
+  },
+  {
+    "day":"Friday",
+    "street":"JUSTIN TRL"
+  },
+  {
+    "day":"Friday",
+    "street":"KEVIN PL"
+  },
+  {
+    "day":"Friday",
+    "street":"KIMBERLY CT"
+  },
+  {
+    "day":"Friday",
+    "street":"LAKEWO0D DR"
+  },
+  {
+    "day":"Friday",
+    "street":"LEXINGTON DR"
+  },
+  {
+    "day":"Friday",
+    "street":"LINDA DR"
+  },
+  {
+    "day":"Friday",
+    "street":"LOUISE WAY"
+  },
+  {
+    "day":"Friday",
+    "street":"MARBLE WAY"
+  },
+  {
+    "day":"Friday",
+    "street":"MARY DR"
+  },
+  {
+    "day":"Friday",
+    "street":"MAURICE DR"
+  },
+  {
+    "day":"Friday",
+    "street":"MEADOWPARK CT"
+  },
+  {
+    "day":"Friday",
+    "street":"NAMI LN"
+  },
+  {
+    "day":"Friday",
+    "street":"SIMMONS LN"
+  },
+  {
+    "day":"Friday",
+    "street":"SPENCER LN"
+  },
+  {
+    "day":"Friday",
+    "street":"STONE CREEK CT"
+  },
+  {
+    "day":"Friday",
+    "street":"STONE MEADOW DR"
+  },
+  {
+    "day":"Friday",
+    "street":"TAYLOR CT"
+  },
+  {
+    "day":"Friday",
+    "street":"TREVA DR"
+  },
+  {
+    "day":"Friday",
+    "street":"WILCHAR BLVD"
+  },
+  {
+    "day":"Friday",
+    "street":"WILLOW CREEK CT"
+  },
+  {
+    "day":"Friday",
+    "street":"WILMINGTON DR"
+  },
+  {
+    "day":"Friday",
+    "street":"WOODLAKE CT"
+  },
+  {
+    "day":"Friday",
+    "street":"WOODPOINTE CT"
+  }
+]

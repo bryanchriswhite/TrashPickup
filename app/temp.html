@@ -1,0 +1,23 @@
+<script src="bower_components/angular/angular.js"></script>
+<script src="scripts/trashPickup.js"></script>
+<script src="scripts/main/main-ctrl.js"></script>
+<div id="ng-app">
+    <div ng-controller="MainCtrl">
+        <table>
+            <thead>
+            <tr>
+                <th>Day of Week</th>
+            </tr>
+            <tr>
+                <th>Street Name</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="row in data">
+                <td>{{row.day}}</td>
+                <td>{{row.street}}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
