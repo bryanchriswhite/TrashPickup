@@ -1,23 +1,78 @@
 <script src="bower_components/angular/angular.js"></script>
 <script src="scripts/trashPickup.js"></script>
 <script src="scripts/main/main-ctrl.js"></script>
+<link rel="stylesheet" href="/styles/main.css"/>
 <div id="ng-app">
     <div ng-controller="MainCtrl">
-        <table>
-            <thead>
-            <tr>
-                <th>Day of Week</th>
-            </tr>
-            <tr>
-                <th>Street Name</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr ng-repeat="row in data">
-                <td>{{row.day}}</td>
-                <td>{{row.street}}</td>
-            </tr>
-            </tbody>
-        </table>
+        <input type="text" ng-model="q" placeholder="search"/>
+
+        <div class="inline-block">
+            <h2>Monday</h2>
+            <table>
+                <thead>
+                <tr>
+                    <!--<th>Day of Week</th>-->
+                    <th>Street Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in data | filter: {day: 'monday'} | filter: {street: q}">
+                    <!--<td>{{row.day}}</td>-->
+                    <td>{{row.street}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="inline-block">
+            <h2>Tuesday</h2>
+            <table>
+                <thead>
+                <tr>
+                    <!--<th>Day of Week</th>-->
+                    <th>Street Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in data | filter: {day: 'tuesday'} | filter: {street: q}">
+                    <!--<td>{{row.day}}</td>-->
+                    <td>{{row.street}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="inline-block">
+            <h2>Thursday</h2>
+            <table>
+                <thead>
+                <tr>
+                    <!--<th>Day of Week</th>-->
+                    <th>Street Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in data | filter: {day: 'thursday'} | filter: {street: q}">
+                    <!--<td>{{row.day}}</td>-->
+                    <td>{{row.street}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="inline-block">
+            <h2>Friday</h2>
+            <table>
+                <thead>
+                <tr>
+                    <!--<th>Day of Week</th>-->
+                    <th>Street Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="row in data | filter: {day: 'friday'} | filter: {street: q}">
+                    <!--<td>{{row.day}}</td>-->
+                    <td>{{row.street}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>
