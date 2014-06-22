@@ -8,71 +8,27 @@
 
         <div class="inline-block">
             <h2>Monday</h2>
-            <table>
-                <thead>
-                <tr>
-                    <!--<th>Day of Week</th>-->
-                    <th>Street Name</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr ng-repeat="row in data | filter: {day: 'monday'} | filter: {street: q}">
-                    <!--<td>{{row.day}}</td>-->
-                    <td>{{row.street}}</td>
-                </tr>
-                </tbody>
-            </table>
+            <ul>
+                <li ng-repeat="row in data | filter: {day: 'monday'} | filter: {street: q}">{{row.street}}</li>
+            </ul>
         </div>
         <div class="inline-block">
             <h2>Tuesday</h2>
-            <table>
-                <thead>
-                <tr>
-                    <!--<th>Day of Week</th>-->
-                    <th>Street Name</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr ng-repeat="row in data | filter: {day: 'tuesday'} | filter: {street: q}">
-                    <!--<td>{{row.day}}</td>-->
-                    <td>{{row.street}}</td>
-                </tr>
-                </tbody>
-            </table>
+            <ul>
+                <li ng-repeat="row in data | filter: {day: 'tuesday'} | filter: {street: q}">{{row.street}}</li>
+            </ul>
         </div>
         <div class="inline-block">
             <h2>Thursday</h2>
-            <table>
-                <thead>
-                <tr>
-                    <!--<th>Day of Week</th>-->
-                    <th>Street Name</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr ng-repeat="row in data | filter: {day: 'thursday'} | filter: {street: q}">
-                    <!--<td>{{row.day}}</td>-->
-                    <td>{{row.street}}</td>
-                </tr>
-                </tbody>
-            </table>
+            <ul>
+                <li ng-repeat="row in data | filter: {day: 'thursday'} | filter: {street: q}">{{row.street}}</li>
+            </ul>
         </div>
         <div class="inline-block">
             <h2>Friday</h2>
-            <table>
-                <thead>
-                <tr>
-                    <!--<th>Day of Week</th>-->
-                    <th>Street Name</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr ng-repeat="row in data | filter: {day: 'friday'} | filter: {street: q}">
-                    <!--<td>{{row.day}}</td>-->
-                    <td>{{row.street}}</td>
-                </tr>
-                </tbody>
-            </table>
+            <ul>
+                <li ng-repeat="row in data | filter: {day: 'friday'} | filter: {street: q}">{{row.street}}</li>
+            </ul>
         </div>
     </div>
 </div>
